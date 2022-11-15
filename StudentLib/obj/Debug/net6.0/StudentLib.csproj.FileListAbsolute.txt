@@ -1,0 +1,12 @@
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\bin\Debug\net6.0\StudentLib.deps.json
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\bin\Debug\net6.0\StudentLib.dll
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\bin\Debug\net6.0\StudentLib.pdb
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\StudentLib.csproj.AssemblyReference.cache
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\StudentLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\StudentLib.AssemblyInfoInputs.cache
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\StudentLib.AssemblyInfo.cs
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\StudentLib.csproj.CoreCompileInputs.cache
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\StudentLib.dll
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\refint\StudentLib.dll
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\StudentLib.pdb
+E:\519H0135_NguyenQuangDuyAnh\StudentLib\StudentLib\obj\Debug\net6.0\ref\StudentLib.dll
